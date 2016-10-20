@@ -1,0 +1,7 @@
+{
+  "AUTHOR": "Specro",
+  "INSTALL_MSG": "From now on bot will greet new members and notify everyone if someone leaves.",
+  "NAME": "Greet",
+  "SHORT": "Greets new members",
+  "DESCRIPTION": "Greets new members and notifies of departures"
+}
