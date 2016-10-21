@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-from beeprint import pp
 
 class Greet:
     """Greets people when they login!"""
